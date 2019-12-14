@@ -605,6 +605,12 @@ vertical-align: top;
 	}
 }
 
+@media only screen and (max-width: 450px){
+	.articles article{
+			width: 350px;
+	}
+}
+
 .button1{
 margin-left: 13%;
 color: #fff;
@@ -630,6 +636,24 @@ font-size: 1.2em;
 }
 
 @media only screen and (max-width: 375px){
+.container_228 img{
+	width: 0px;
+	height: 0px;
+} 
+
+}
+
+@media only screen and (max-width: 450px){
+.o_nas{
+	width: 410px;
+	margin: 0px;
+	padding-right: 0px;
+	height: 900px;
+}
+
+}
+
+@media only screen and (max-width: 450px){
 .container_228 img{
 	width: 0px;
 	height: 0px;
